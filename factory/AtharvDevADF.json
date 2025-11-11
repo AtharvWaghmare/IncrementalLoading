@@ -1,0 +1,9 @@
+{
+	"name": "AtharvDevADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "466e81e5-aaaa-4287-a81b-00a605eb813b",
+		"tenantId": "93c7611e-52e1-4a6e-94c0-9078bfec5aa6"
+	}
+}
